@@ -1,3 +1,7 @@
+# Gifs App
+<img width="1394" height="954" alt="image" src="https://github.com/user-attachments/assets/4b2ac11e-b388-4f7d-8dde-417fa2aa66c1" />
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
